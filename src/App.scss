@@ -1,0 +1,54 @@
+$bg-main: #272f40;
+$bg-sec: rgb(217, 218, 232);
+$main-color: rgb(145, 188, 211);
+$sec-color: rgb(20, 125, 186);
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: $bg-main;
+    text-align: center;
+}
+
+#root {
+    padding: 0 10%;
+}
+
+#quote-box {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    font-size: 2em;
+}
+
+#text {
+    color: $main-color;
+    font-weight: 700;
+}
+
+#author {
+    color: $sec-color;
+}
+
+#buttons {
+    margin-top: 1em;
+}
+
+#tweet-quote, #new-quote {
+    color: #123;
+    text-decoration: none;
+    font-size: 0.6em;
+    padding: 0.8em;
+    background-color: $bg-sec;
+    margin: 1em;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+#tweet-quote:hover, #new-quote:hover {
+    color: #def;
+    background-color: #321;
+}
