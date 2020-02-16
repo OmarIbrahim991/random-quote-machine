@@ -21,6 +21,7 @@ export default class Wrapper extends React.Component {
   }
 
   render() {
+    const link = "https://twitter.com/intent/tweet?text=" + this.state.quote + "  -" + this.state.author
     return (
     <div id="quote-box">
       <div id="text">
@@ -30,8 +31,8 @@ export default class Wrapper extends React.Component {
         -{this.state.author}
       </div>
       <div id="buttons">
-        <a id="tweet-quote" href="twitter.com/intent/tweet">Tweet</a>
-        <a id="new-quote" href="#" onClick={this.getNewQuote}>New quote</a>
+        <a id="tweet-quote" href={link}>Tweet!</a>
+        <button id="new-quote" onClick={this.getNewQuote}>New quote</button>
       </div>
     </div>
     )

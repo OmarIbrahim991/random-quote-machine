@@ -47,6 +47,78 @@ const QUOTES = [
     }, {
         quote: "We become what we think about.",
         author: "Earl Nightingale"
+    }, {
+        quote: "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+        author: "Plato"
+    }, {
+        quote: "A person who never made a mistake never tried anything new.",
+        author: "Albert Einstein"
+    }, {
+        quote: "The only way to do great work is to love what you do.",
+        author: "Steve Jobs"
+    }, {
+        quote: "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
+        author: "Leonardo da Vinci"
+    }, {
+        quote: "The two most important days in your life are the day you are born and the day you find out why.",
+        author: "Mark Twain"
+    }, {
+        quote: "If you want to lift yourself up, lift up someone else.",
+        author: "Booker T. Washington"
+    }, {
+        quote: "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+        author: "Maya Angelou"
+    }, {
+        quote: "The mind is everything. What you think you become.",
+        author: "Buddha"
+    }, {
+        quote: "Believe you can and you’re halfway there.",
+        author: "Theodore Roosevelt"
+    },{
+        quote: "If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.",
+        author: "Oprah Winfrey"
+    }, {
+        quote: "Teach thy tongue to say, “I do not know,” and thous shalt progress.",
+        author: "Maimonides"
+    }, {
+        quote: "The battles that count aren’t the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that’s where it’s at.",
+        author: "Jesse Owens"
+    }, {
+        quote: "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+        author: "Joshua J. Marine"
+    }, {
+        quote: "I am not a product of my circumstances. I am a product of my decisions.",
+        author: "Stephen Covey"
+    }, {
+        quote: "Whatever the mind of man can conceive and believe, it can achieve.",
+        author: "Napoleon Hill"
+    }, {
+        quote: "Life isn’t about getting and having, it’s about giving and being.",
+        author: "Kevin Kruse"
+    }, {
+        quote: "The only person you are destined to become is the person you decide to be.",
+        author: "Ralph Waldo Emerson"
+    }, {
+        quote: "Life is 10% what happens to me and 90% of how I react to it.",
+        author: "Charles Swindoll"
+    }, {
+        quote: "Your time is limited, so don’t waste it living someone else’s life.",
+        author: "Steve Jobs"
+    }, {
+        quote: "In order to succeed, your desire for success should be greater than your fear of failure.",
+        author: "Bill Cosby"
+    }, {
+        quote: "Either write something worth reading or do something worth writing.",
+        author: "Benjamin Franklin"
+    }, {
+        quote: "Life shrinks or expands in proportion to one’s courage.",
+        author: "Anais Nin"
+    }, {
+        quote: "It’s not the years in your life that count. It’s the life in your years.",
+        author: "Abraham Lincoln"
+    }, {
+        quote: "You may be disappointed if you fail, but you are doomed if you don’t try.",
+        author: "Beverly Sills"
     }
 ]
 
